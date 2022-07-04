@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Alyssonn7
-- 👀 I’m interested in ...  programação- frontend
-- 🌱 I’m currently learning ...a linguagem python
+- 👋 Hi, I’m @Alysszonn7
+- 👀 I’m interested in ...  Back-end JavaScript Node.JS
+- 🌱 I’m currently learning ...a linguagem  JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
